@@ -11,7 +11,7 @@
     
     return (
         <div>
-            <div id="date-container" className='w-[766px] h-[557px] border border-none rounded-[20px] m-auto mt-[50px] shadow-2xl p-[29px]'>
+            <div id="date-container" className='w-[766px] h-[557px] border border-none rounded-[20px] m-auto mt-[50px] shadow-2xl p-[29px] bg-green-800'>
                 
                 <h1 className='text-[30px] mt-[50px] font-iltm'>Hello my name is: <span className='text-yellow-500'>{userName}</span></h1>
                 
